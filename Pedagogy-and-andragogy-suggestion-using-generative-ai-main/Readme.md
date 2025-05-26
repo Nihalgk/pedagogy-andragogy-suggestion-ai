@@ -128,10 +128,9 @@ npm run dev
 
 ## Project Team 👥
 
-- Anirudh Hegde (1DS21AI003)
-- E Harshith (1DS21AI016)
-- SK Sai Tarun (1DS21AI050)
-- Suprith A S (1DS21AI052)
+- Nihal Gagan Kunte (20211CSD0079)
+- Pawan Kumar D (20211CSD0079)
+  
 
 ## Project Timeline 📅
 
